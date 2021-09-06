@@ -7,4 +7,4 @@ public class ATM extends OptionMenu{
     optionMenu.getLogin();
   }
 
-};
+}
